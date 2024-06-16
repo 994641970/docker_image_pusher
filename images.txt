@@ -8,7 +8,7 @@ iyuucn/iyuuplus:latest
 amir20/dozzle
 ddsderek/qbittorrent_skip_patch:latest
 hslr/sun-panel
-aliyundrive-webdav
+messense/aliyundrive-webdav
 jxxghp/moviepilot:latest
 easychen/cookiecloud:latest
 emby/embyserver:latest
@@ -19,3 +19,4 @@ diygod/rsshub
 haishanh/yacd:latest
 dreamacro/clash:latest
 amir20/dozzle:latest
+mzz2017/v2raya
