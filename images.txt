@@ -20,3 +20,4 @@ haishanh/yacd:latest
 dreamacro/clash:latest
 amir20/dozzle:latest
 mzz2017/v2raya
+sleikang/media_server_tools:latest
